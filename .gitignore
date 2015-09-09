@@ -1,0 +1,10 @@
+*.iml
+*.ipr
+*.iws
+*.json
+*.xlsx
+.DS_Store
+.classpath
+.idea/
+.project
+target/
