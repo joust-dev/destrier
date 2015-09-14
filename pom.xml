@@ -18,7 +18,7 @@
     <apache-poi.version>3.12</apache-poi.version>
     <jackson.version>1.8.5</jackson.version>
     <lombok.version>1.12.4</lombok.version>
-    <server-common.version>1.53-SNAPSHOT</server-common.version>
+    <server-common.version>1.53</server-common.version>
     <slf4j.version>1.7.5</slf4j.version>
   </properties>
 
