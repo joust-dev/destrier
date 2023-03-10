@@ -17,7 +17,7 @@
   <properties>
     <apache-poi.version>3.12</apache-poi.version>
    <!--  <jackson.version>1.8.5</jackson.version> -->
-    <jackson.version>2.12.1</jackson.version>
+    <jackson.version>2.14.2</jackson.version>
     <lombok.version>1.12.4</lombok.version>
     <server-common.version>1.82-SNAPSHOT</server-common.version>
     <slf4j.version>1.7.5</slf4j.version>
